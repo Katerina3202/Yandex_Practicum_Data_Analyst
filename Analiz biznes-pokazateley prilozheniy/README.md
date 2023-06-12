@@ -23,4 +23,5 @@
 Python, pandas, numpy, datetime, matplotlib, seaborn, math, warnings, time
 
 Предобработка данных, когортный анализ, юнит-экономика, продуктовые метрики (LTV, ROI, Retention Rate, Conversion Rate), момент и горизонт анализа, визуализация данных
- 
+
+**Статус проекта:** завершен
